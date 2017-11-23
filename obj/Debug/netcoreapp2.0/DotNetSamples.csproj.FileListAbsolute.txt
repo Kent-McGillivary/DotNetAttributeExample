@@ -1,0 +1,10 @@
+/Users/kentmcgillivary/DotNetSamples/bin/Debug/netcoreapp2.0/DotNetSamples.deps.json
+/Users/kentmcgillivary/DotNetSamples/bin/Debug/netcoreapp2.0/DotNetSamples.runtimeconfig.json
+/Users/kentmcgillivary/DotNetSamples/bin/Debug/netcoreapp2.0/DotNetSamples.runtimeconfig.dev.json
+/Users/kentmcgillivary/DotNetSamples/bin/Debug/netcoreapp2.0/DotNetSamples.dll
+/Users/kentmcgillivary/DotNetSamples/bin/Debug/netcoreapp2.0/DotNetSamples.pdb
+/Users/kentmcgillivary/DotNetSamples/obj/Debug/netcoreapp2.0/DotNetSamples.csproj.CoreCompileInputs.cache
+/Users/kentmcgillivary/DotNetSamples/obj/Debug/netcoreapp2.0/DotNetSamples.AssemblyInfoInputs.cache
+/Users/kentmcgillivary/DotNetSamples/obj/Debug/netcoreapp2.0/DotNetSamples.AssemblyInfo.cs
+/Users/kentmcgillivary/DotNetSamples/obj/Debug/netcoreapp2.0/DotNetSamples.dll
+/Users/kentmcgillivary/DotNetSamples/obj/Debug/netcoreapp2.0/DotNetSamples.pdb
